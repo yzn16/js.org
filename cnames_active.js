@@ -3160,6 +3160,7 @@ var cnames_active = {
   "t": "l-js.mydevapp.tfuture.eu.org", // noCF
   "tab": "gdmcc.github.io/tab",
   "tabs": "mehrizi.github.io/tabs",
+  "tulaihi": "yzn16.github.io", // نضيف هذا السطر
   "tagscript": "cname.vercel-dns.com", // noCF
   "tagster": "goschevski.github.io/tagster", // noCF? (don´t add this in a new PR)
   "taha": "orcxzjeeeee.github.io/taha",
